@@ -1,0 +1,7 @@
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\bin\Debug\ResearchProject1.exe.config
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\bin\Debug\ResearchProject1.exe
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\bin\Debug\ResearchProject1.pdb
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\obj\Debug\ResearchProject1.csprojAssemblyReference.cache
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\obj\Debug\ResearchProject1.csproj.CoreCompileInputs.cache
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\obj\Debug\ResearchProject1.exe
+C:\Users\nickm\Source\Repos\nickmw11\SVC-Policy-Iteration-1\ResearchProject1\obj\Debug\ResearchProject1.pdb
